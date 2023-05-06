@@ -17,3 +17,7 @@ I have to thank guys from https://blog.hubspot.com/website/center-div-css
 
 
 If you have any tips how to improve such beginner approach - I would be happy to know them.
+
+
+To see a solution live:
+https://alittlemayhem.github.io/QR_code_solution/
